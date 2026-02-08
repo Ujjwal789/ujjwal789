@@ -12,8 +12,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Vibe Code**
 - 🌱 I’m learning **Bootstrap**  
-- 👨‍💻 My portfolio → [ujjwal-kumar-gupta.vercel.app](https://ujjwal-kumar-gupta.vercel.app/)  
-- 📝 I write articles → [Blog](blog)  
+- 👨‍💻 My portfolio → [ujjwal-kumar-gupta.vercel.app](https://ujjwal-kumar-gupta.vercel.app/)   
 - 💬 Ask me about **React, Node.js, Web Development**  
 - 📫 Reach me at **ujjwal.mathuri789@gmail.com**  
 - ⚡ Fun fact: *One error can waste the whole day 😅*
@@ -42,22 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal789&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal789&theme=radical" alt="streak" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal789&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwal789&theme=discord&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
