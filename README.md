@@ -10,8 +10,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Vibe Code**
-- 🌱 I’m learning **Bootstrap**  
+- 🔭 I’m currently working on  **Bootstrap** 
+- 🌱 I’m learning **Kafka**  
 - 👨‍💻 My portfolio → [ujjwal-kumar-gupta.vercel.app](https://ujjwal-kumar-gupta.vercel.app/)   
 - 💬 Ask me about **React, Node.js, Web Development**  
 - 📫 Reach me at **ujjwal.mathuri789@gmail.com**  
